@@ -10,8 +10,9 @@
 	</parent>
 	<groupId>com.jar.maven-tomcat</groupId>
 	<artifactId>demo-jar-maven-tomcat</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>V1.0</version>
 	<name>demo-jar-maven-tomcat</name>
+	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
